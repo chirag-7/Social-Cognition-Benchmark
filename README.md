@@ -47,4 +47,7 @@
 | undercover_social_navigation | Game | Multi-Party Social Navigation |
 
 <img width="1325" height="772" alt="image" src="https://github.com/user-attachments/assets/4264942e-dc90-4423-b789-fd4d4feef5cb" />
+<img width="1306" height="638" alt="image" src="https://github.com/user-attachments/assets/b04d1f2c-e8c0-4e37-92aa-aa68537954cd" />
+<img width="1304" height="768" alt="image" src="https://github.com/user-attachments/assets/467005e7-a73f-4b36-b552-dcc2cd609b39" />
+
 
