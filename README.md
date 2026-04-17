@@ -45,3 +45,6 @@
 | centipede_persuasion | Game | Credible Commitment |
 | Peace Treaty Negotiation | Game | Territory Negotiation |
 | undercover_social_navigation | Game | Multi-Party Social Navigation |
+
+<img width="1325" height="772" alt="image" src="https://github.com/user-attachments/assets/4264942e-dc90-4423-b789-fd4d4feef5cb" />
+
