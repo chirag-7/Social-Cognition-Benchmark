@@ -2,7 +2,7 @@
 
 **A benchmark for evaluating social cognition in AI models, grounded in [DeepMind's Cognitive Framework (Burnell et al., 2026)](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/measuring-progress-toward-agi/measuring-progress-toward-agi-a-cognitive-framework.pdf). Tasks are organized across four subdomains: Social Perception, Theory of Mind, Empathic Responding (Bridge), and Social Skills using datasets for static evaluation, established cognitive tests for diagnostic measurement, and interactive games for dynamic assessment. Together, they provide a comprehensive profile of where models excel and where they fall short across the social cognition spectrum.** 
 
-##Subdomain 1: Social Perception
+## Subdomain 1: Social Perception
 
 | Task | Source Type | Description |
 |---|---|---|
@@ -14,7 +14,7 @@
 | aita_social_situation_assessment | Dataset | Social Conflict Scenarios |
 | emotic_social_situation_assessment | Dataset | Valence/Arousal/Dominance |
 
-##Subdomain 2: Theory of Mind
+## Subdomain 2: Theory of Mind
 
 | Task | Source Type | Description |
 |---|---|---|
@@ -25,14 +25,14 @@
 | ATOMIC: 20 Samples Per Category | Dataset | Intent + Attribution |
 | kable_logic_reasoning | Dataset | Epistemic Tasks |
 
-##Bridge: Perception × ToM × Action
+## Bridge: Perception × ToM × Action
 
 | Task | Source Type | Description |
 |---|---|---|
 | ESConv: Support Strategy (250) | Dataset | Emotional Support Dialogues |
 | EmoBench: Social Intelligence (250) | Dataset | Cognitive + Affective Empathy |
 
-##Subdomain 3: Social Skills
+## Subdomain 3: Social Skills
 
 | Task | Source Type | Description |
 |---|---|---|
